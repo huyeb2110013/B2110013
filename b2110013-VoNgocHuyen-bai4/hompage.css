@@ -1,0 +1,14 @@
+*,
+::before,
+::after {
+    box-sizing: border-box;
+    padding: 0;
+
+}
+
+.avata{
+    width: 30%;
+    height: 10vh;
+    border: 2px;
+    border-radius: 20%;
+}
